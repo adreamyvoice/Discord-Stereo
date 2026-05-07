@@ -4,7 +4,7 @@
 
 **Make Discord voice chat sound way better — true stereo, high quality, no muffling.**
 
-Works on Windows, macOS, and Linux.
+Works on Windows and Linux.
 
 </div>
 
@@ -40,10 +40,6 @@ That's it.
 2. Download [`discord-stereo-launcher.sh`](https://github.com/adreamyvoice/Discord-Stereo/raw/main/Updates/Linux/discord-stereo-launcher.sh).
 3. In the terminal: `chmod +x discord-stereo-launcher.sh && ./discord-stereo-launcher.sh`
 4. Pick **patcher mode** in the window that opens.
-
-### 🍎 macOS
-
-The macOS version is being moved over and isn't ready yet. Check back soon, or [join the Discord](https://discord.gg/gDY6F8RAfM) for updates.
 
 ---
 
