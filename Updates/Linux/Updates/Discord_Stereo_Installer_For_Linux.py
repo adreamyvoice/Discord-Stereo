@@ -308,7 +308,7 @@ class DiscordVoiceFixerGUI:
             font=FONTS["title"],
         ).pack(pady=(14, 2))
 
-        subtitle = "Oracle | Shaun | Hallow | Ascend | Sentry | Sikimzo | Cypher"
+        subtitle = "by Voice"
         if DEBUG_MODE:
             subtitle += " | DEBUG"
         tk.Label(

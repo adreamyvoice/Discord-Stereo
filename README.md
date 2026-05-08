@@ -70,10 +70,4 @@ Hop into a voice channel with a friend and ask if you sound clearer. That's the 
 
 ---
 
-## Thanks to
-
-Shaun · UnpackedX · Voice Playground · Oracle · Loof-sys · Hallow · Ascend · BluesCat · Sentry · Sikimzo · CRÜE · HorrorPills / Geeko
-
----
-
 > ⚠️ Provided as-is for research and experimentation. Not affiliated with Discord Inc.

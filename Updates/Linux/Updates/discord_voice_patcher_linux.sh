@@ -2,7 +2,7 @@
 ###############################################################################
 # Discord Voice Quality Patcher - Linux
 # 48 kHz | 384 kbps | Stereo
-# Made by: Oracle | Shaun | Hallow | Ascend | Sentry | Sikimzo | Cypher
+# Made by: Voice
 #
 # v8.2 (Discord 0.0.135 / discord_voice.node MD5 fb6684...649a9):
 #   * Bumped amplifier injection size 0x100 -> 0x180 (256 -> 384 bytes).

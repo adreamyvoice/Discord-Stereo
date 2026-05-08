@@ -3,7 +3,7 @@
 # DISCORD VOICE FIXER - Stereo Audio Module Installer (Linux)
 # Downloads and installs pre-patched stereo voice modules.
 # Usage: ./Stereo-Installer-Linux.sh [--silent] [--check] [--restore] [--help]
-# Made by: Oracle | Shaun | Hallow | Ascend | Sentry | Sikimzo | Cypher
+# Made by: Voice
 #
 # v2.2 (2026-04):
 #   * Switched module source to the Hub-style "Patched Nodes (for Installer)/Linux"
@@ -203,7 +203,7 @@ banner() {
     echo -e "${CYAN}======================================================${NC}"
     echo -e "${WHITE}${BOLD}Discord Voice Fixer${NC} - ${CYAN}Linux Installer v${SCRIPT_VERSION}${NC}"
     echo -e "${DIM}48kHz | 384kbps | True Stereo | Filterless${NC}"
-    echo -e "${DIM}Oracle | Shaun | Hallow | Ascend | Sentry | Sikimzo | Cypher${NC}"
+    echo -e "${DIM}by Voice${NC}"
     echo -e "${CYAN}======================================================${NC}"
     echo ""
 }
